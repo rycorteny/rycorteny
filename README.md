@@ -29,5 +29,8 @@
       <a href="https://python.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png" alt="Visual studio code link" width="50" height="50">
       </a>
+      <a href="https://python.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/nodejs.png" alt="Visual studio code link" width="50" height="50">
+      </a>
     </p>
 </div>
