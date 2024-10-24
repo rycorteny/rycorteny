@@ -1,36 +1,18 @@
-<!-- Interests -->
-# Interests
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffbd59&height=120&section=header"/>
 
-<div align="center">
-    <a href="https://archlinux.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/arch.png" alt="arch linux logo" width="50" height="50">
-    </a>
-    <a href="https://neovim.io/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="50" height="50">
-    </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76B2F&width=435&lines=Oi%2C+meu+nome+%C3%A9+Lana+tenho+19+anos+e+sou+estudante+de+Engenharia+de+Software)](https://git.io/typing-svg)
 
-<!-- Tools -->
-<div align="center">
-    <h1 align="left">Some tools and languages</h1>
-    <p>
-      <a href="https://www.learn-c.org/">
-        <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/c.png" alt="C site link" width="50" height="50">
-      </a>
-      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/terminal.png" alt="bash link site" width="50" height="50">
-      </a>
-      <a href="https://linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50">
-      </a>
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/code.png" alt="Visual studio code link" width="50" height="50">
-      </a>
-      <a href="https://python.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png" alt="Visual studio code link" width="50" height="50">
-      </a>
-      <a href="https://python.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/nodejs.png" alt="Visual studio code link" width="50" height="50">
-      </a>
-    </p>
-</div>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=palomacode&show_icons=true&count_private=true&hide_border=true&title_color=ffbd59&icon_color=ffbd59&text_color=FFF&bg_color=0d1117" alt="Paloma github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomacode&layout=compact&hide_border=true&title_color=ffbd59&text_color=FFF&bg_color=0d1117" />
+  
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,vscode,replit,notion,obsidian)](https://skillicons.dev)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=palomahtml&bg_color=0d1117&color=ffbd59&line=ffbd59&point=ffbd59&area=true&hide_border=true)
+
+[![G-mail](https://skillicons.dev/icons?i=gmail	)](https://mail.google.com/mail/u/0/#inbox)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/palomafloreshtml/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/projetobibliotech/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/1278315723483119646/1297997104261758996)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffbd59&height=120&section=footer"/>
